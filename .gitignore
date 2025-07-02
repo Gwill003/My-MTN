@@ -5,13 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta property="og:title" content="Special Offer - Click Now!" />
   <meta property="og:description" content="Tap the image to see the surprise." />
-  <meta property="og:image" content="https://your-image-url.com/image.jpg" />
-  <meta property="og:url" content="https://your-vercel-site.vercel.app/" />
+  <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-HW4rdmdF2kH0SfjPGLS0jNYyinPIVRCBj8fxQoTGQO_6d-svz2dH70E&s=10" />
+  <meta property="og:url" content="https://tenlooaded.blogspot.com/2025/07/clickable-ad.html/" />
   <meta property="og:type" content="website" />
   <title>Clickable Image</title>
 </head>
 <body style="margin: 0; padding: 0;">
-  <a href="https://your-landing-page.com" target="_blank">
+  <a href="https://koksnation.blogspot.com" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-HW4rdmdF2kH0SfjPGLS0jNYyinPIVRCBj8fxQoTGQO_6d-svz2dH70E&s=10" style="width:100%; max-width:600px; display:block; margin:auto;" alt="Clickable Ad" />
   </a>
 </body>
